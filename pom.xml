@@ -190,7 +190,7 @@
 				<configuration>
 					<port>8082</port>       <!--与你的tomcat端口号一致 -->
 					<path>/jenkinstest</path>     <!--你的项目名 -->
-					<url>http://localhost:8082/jenkinstest/hello</url>
+					<url>http://192.168.6.128:8082/jenkinstest</url>
 					<username>tomcat</username>
 					<password>tomcat</password>
 				</configuration>
